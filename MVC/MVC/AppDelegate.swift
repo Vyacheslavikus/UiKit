@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  UiKit
+//  MVC
 //
-//  Created by Слава on 02.02.2024.
+//  Created by Слава on 10.02.2024.
 //
 
 import UIKit
